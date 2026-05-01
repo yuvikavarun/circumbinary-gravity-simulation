@@ -1,6 +1,6 @@
 # P-Type Circumbinary Planet Simulation
 
-A real-time, WebGL-powered physics playground where a terrestrial planet orbits two stars (a primary yellow star and a secondary red dwarf).
+A real-time, WebGL-powered physics playground where a terrestrial planet (perhaps Earth-29449 or Tatooine) orbits two stars (a primary yellow star and a secondary red dwarf).
 
 Instead of faking the orbits with fixed animations, I wanted to see what happens when you actually simulate the gravity and lighting. Here's a quick look at how it works under the hood.
 

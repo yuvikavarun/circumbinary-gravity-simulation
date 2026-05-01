@@ -1,4 +1,4 @@
-# P-Type Circumbinary Planet Simulation
+# P-Type Circumbinary Planet Simulation - [View Live Demo](https://circumbinary-gravity-simulation.vercel.app/)
 
 A real-time, WebGL-powered physics playground where a terrestrial planet (perhaps Earth-29449 or Tatooine) orbits two stars (a primary yellow star and a secondary red dwarf).
 

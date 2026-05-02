@@ -36,6 +36,13 @@ I used high-res Earth cartography to really show off how a planet's surface reac
 
 * **Tone Mapping:** I used ACESFilmic tone mapping to handle the massive dynamic range. It keeps the bright star cores from blowing out the colors while maintaining the pitch-black void of space.
 
+## References & Acknowledgements
+Building a astrophysics simulation requires standing on the shoulders of giants. This simulation was heavily inspired and guided by the following academic giants:
+* **Joshua Winn** - For his YouTube lecture in collaboration with "Serious Science" on Circumbinary Planets. This lecture is WHY I'm hyperfixated on binary star systems
+* **NASA** - For the conceptual reference and animation video of the Kepler-47 uploaded on YouTube.
+* **Anna B. T. Penzlin, Sareh Ataiee, and Wilhelm Kley** - For their article on the orbital resonance of circumbinary planets.
+* **Matthew J. Holman and Paul A. Wiegert** - For their research paper, *"Long-Term Stability of Planets in Binary Systems"*
+* Finally **Star Wars** for creating Tatooine, and getting millions of kids interested in STEM.
 ---
 
 Built by Yuvika Varun
